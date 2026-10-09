@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+kaggle.json
+data/*.csv
+data/*.zip
+outputs/input_demo.mp4
